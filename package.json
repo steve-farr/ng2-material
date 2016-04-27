@@ -1,6 +1,6 @@
 {
   "name": "ng2-material",
-  "version": "0.3.7",
+  "version": "0.3.8",
   "description": "",
   "main": "dist/ng2-material.js",
   "repository": {
@@ -11,11 +11,11 @@
   "license": "MIT",
   "readmeFilename": "README.md",
   "scripts": {
-    "start": "$(npm bin)/grunt serve",
-    "test": "$(npm bin)/grunt karma"
+    "start": "grunt serve",
+    "test": "grunt karma"
   },
   "dependencies": {
-    "angular2": ">=2.0.0-beta.14",
+    "angular2": "2.0.0-beta.15",
     "es6-promise": ">=3.0.2",
     "es6-shim": ">=0.35.0",
     "reflect-metadata": "0.1.2",
@@ -78,6 +78,13 @@
     "Sam <samuel.jones@q-free.com>",
     "Sylvain Dumont <sylvain.dumont35@gmail.com>",
     "Dotan Simha <dotansimha@gmail.com>",
+    "Adam Busbin <aw.busbin@gmail.com>",
+    "BIZID Amine <amine.bizid@gmail.com>",
+    "Chris Seto <chriskseto@gmail.com>",
+    "Christian Beilschmidt <fyaa@ntacity.de>",
+    "Dan MacFarlane <dan@dancity.com>",
+    "Daniel Rasmuson <dan123911@gmail.com>",
+    "Ferdinand Torggler <ferdinand.torggler@gmail.com>",
     "Lukas Ruebbelke <simpul@gmail.com>",
     "Maks3w <github.maks3w@virtualplanets.net>",
     "Milos Stanic <milos.stanic@gmail.com>",
@@ -85,13 +92,7 @@
     "N. Schipper <n.schippper@twensoc.nl>",
     "Paul Robinson <paul.robinson@kyndling.com>",
     "Sam Van Brussel <sam.vanbrussel@linqed.be>",
-    "Adam Busbin <aw.busbin@gmail.com>",
     "samuel.jones <samuel.jones@q-free.com>",
-    "BIZID Amine <amine.bizid@gmail.com>",
-    "Chris Seto <chriskseto@gmail.com>",
-    "Christian Beilschmidt <fyaa@ntacity.de>",
-    "Dan MacFarlane <dan@dancity.com>",
-    "Daniel Rasmuson <dan123911@gmail.com>",
-    "Ferdinand Torggler <ferdinand.torggler@gmail.com>"
+    "steve-farr <ordersmy@gmail.com>"
   ]
 }
